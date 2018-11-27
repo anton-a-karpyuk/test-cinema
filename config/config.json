@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "cinema",
+    "password": "cinema",
+    "database": "testcinema",
+    "host": "dev.cupcakedev.com",
+    "dialect": "mysql"
+  }
+}
